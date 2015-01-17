@@ -1,3 +1,3 @@
 # Chapter 1
 
-Chapter 1 intro.
+Everything in React is a component.
