@@ -1,5 +1,4 @@
-{frontmatter}
-
-{mainmatter}
-
-{backmatter}
+frontmatter.txt
+chapter1.txt
+chapter2.txt
+backmatter.txt
